@@ -1,0 +1,16 @@
+Title,Category,Domain,Energy,System,API
+Assessing the suitability of the Greenhouse Gas Protocol for calculation of emissions from public cloud computing workloads,Cloud Computing,Cloud Workloads,Cloud Provider Reports,Conceptual analysis
+Workload Shifting Based on Low Carbon Intensity Periods: A Framework for Reducing Carbon Emissions in Cloud Computing,Cloud Computing,Cloud Workloads,Workload Models,Simulations,ENTSO-E
+CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency,Cloud Computing,Cloud Workloads,Intel RAPL;PowerAPI;DCGM,Real and simulated systems,Electricity Maps
+CO2 Emission Efficiency as a Measurable NonFunctional Requirement: An Emission Estimation Framework,Cloud Computing,Distributed Databases,Instance Metrics
+An Allocation Model for Attributing Emissions in Multitenant Cloud Data Centers,Cloud Computing,SaaS Platforms,Bohra-Chaudhary,Real systems
+Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning,AI Workloads,Machine Learning,Intel RAPL;NVIDIA-SMI,Real systems,Electricity Maps;CAISO
+eco2AI: Carbon Emissions Tracking of Machine Learning Models as the First Step Towards Sustainable AI,AI Workloads,Machine Learning,Intel RAPL;NVML;psutil,Real systems,Electricity Maps
+Measuring the Carbon Intensity of AI in Cloud Instances,AI Workloads,NLP,Intel RAPL;NVIDIA-SMI,Real systems,WattTime
+Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools,AI Workloads,NLP,PowerAPI,Real systems,Electricity Maps
+Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models,AI Workloads,Deep Learning,Intel RAPL;NVML,Real systems,Energi Data Service;Carbon Intensity API
+Carbon Intensity-Aware Adaptive Inference of DNNs,AI Workloads,Vision Recognition Models,Cloud Provider Reports,Real systems
+Visualizing the Carbon Intensity of Machine learning Inference for Image Analysis on TensorFlow Hub,AI Workloads,Image Classification,CodeCarbon,Real systems,CodeCarbon API
+LLMCarbon: Modeling the end-to-end Carbon Footprint of Large Language Models,AI Workloads,LLMs,,Real and simulated systems
+CarbonCast: multi-day forecasting of grid carbon intensity,Energy Systems,Grid Carbon Intensity Forecasting,,Real and simulated systems
+Demo: The DIMPACT Tool for Environmental Assessment of Digital Services,Digital Services,Digital Services,,Simulations
